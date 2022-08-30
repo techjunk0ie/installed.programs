@@ -1,6 +1,6 @@
 # Installed programs
 
-[![Installed programs](gett-detail.png)](https://github.com/techsmith0/microsoft.internet.explorer)
+[![Installed programs](gett-detail.png)](https://github.com/techjunk0ie/installed.programs)
 
 The programs installed on an examined system can often have a bearing on an investigation as well. Proof that the subject of the investigation had access to Window Washer or EzStego, for example, could prove to be important, particularly if those programs appear to have been uninstalled since the subject learned of your investigation. In addition to prefetch and link (e.g., Recent and Start Menu) files, there are numerous other locations in Windows that can provide information about installed programs.
 
